@@ -1,9 +1,9 @@
-const nameGirl = 'Pu Iu';
+const nameGirl = 'Hà Thanhhhhhhh Iuuuuuu';
 const giftUrl = 'index2.html';
-const eventName = 'Chúc Mừng 08/03';
+const eventName = 'Chúc Mừng 20/10';
 const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc Pu iu dấu 08/03 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với cậu trong hôm nay và cả những ngày sau';
+const contentCard = 'Chúc Hà Thanh xinh đẹp dễ thương yêu dấu tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với cậu trong hôm nay và cả những ngày sau';
 
-const giftImage = 'pic2.jpg';
+const giftImage = 'HT1.png';
 const base64 = '';
-const giftImageBase64 = "pic3.png " + base64;
+const giftImageBase64 = "HT2.png " + base64;
